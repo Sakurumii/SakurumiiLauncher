@@ -3,7 +3,7 @@
 SKRML 是 Sakurumii 自制的樱花粉主题 Minecraft 启动器（Windows）。
 从下载游戏、管理版本，到装入模组与光影，所有琐碎步骤都被收进一个温柔的窗口里——你只管玩。
 
-## ✨ 特性一览
+##  特性一览
 
 | 功能 | 说明 |
 | --- | --- |
@@ -14,7 +14,7 @@ SKRML 是 Sakurumii 自制的樱花粉主题 Minecraft 启动器（Windows）。
 |  **Java 自动配置** | 自动检测本机 Java，缺什么就装什么，官方运行时一键到位 |
 |  **日志实时查看** | 游戏日志实时滚动，崩溃原因一眼看清，排查不再抓瞎 |
 
-##🎨 界面设计
+## 界面设计
 
 - 樱花粉主题（`#f472b6` 系），支持浅色 / 深色切换
 - 左侧边栏：主页 · 版本管理 · 模组管理 · 光影管理 · 设置 · 关于
@@ -29,7 +29,7 @@ SKRML 是 Sakurumii 自制的樱花粉主题 Minecraft 启动器（Windows）。
 - **网络**：requests（`verify=False` 绕过代理 SSL 拦截 + 自动重试）
 - **官网**：Cloudflare Workers 静态站（teal 青色主题）
 
-## 📥 下载
+##  下载
 
 访问官网获取最新版本：**[skrml.sakurumii.top](https://skrml.sakurumii.top)**
 
