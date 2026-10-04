@@ -1,5 +1,6 @@
 # SKRML · SakurumiLauncher
-#启动器源码位于 https://github.com/Sakurumii/code
+
+# 启动器源码位于 https://github.com/Sakurumii/code
 
 SKRML 是 Sakurumii 自制的 Minecraft 启动器（Windows）。
 从下载游戏、管理版本，到装入模组与光影，都在SKRML中完成。
