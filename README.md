@@ -1,5 +1,7 @@
 # SKRML · SakurumiLauncher
 
+#启动器源码位于 https://github.com/Sakurumii/code
+
 SKRML 是 Sakurumii 自制的樱花粉主题 Minecraft 启动器（Windows）。
 从下载游戏、管理版本，到装入模组与光影，所有琐碎步骤都被收进一个温柔的窗口里——你只管玩。
 
